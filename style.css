@@ -21,3 +21,15 @@
 .card-title{
   text-align: center;
 }
+
+.navbar-brand{
+  font-weight: ;
+  font-style: italic;
+color: white;
+}
+.nav-link{
+  font-weight:bold;
+  font-style: italic;
+color: white;
+font-size: large;
+}
